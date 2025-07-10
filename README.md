@@ -38,6 +38,7 @@ MaizeYieldML/
 2. Install dependencies:
    pip install -r requirements.txt
 3. Open and run the Jupyter notebook in /notebooks.
+   
    | Model                     | RMSE  | R² Score |
 | ------------------------- | ----- | -------- |
 | RandomForest (Full)       | 14.70 | 0.7923   |
@@ -45,10 +46,10 @@ MaizeYieldML/
 | XGBoost (Full)            | 16.75 | 0.7302   |
 | XGBoost (Simplified)      | 16.88 | 0.726    |
 
-📄 License
+## 📄 License
 This project is open-source under the MIT License.
 
-🤝 Acknowledgements
+## 🤝 Acknowledgements
 This work contributes to advancing ML-based phenotyping in plant science. SHAP interpretation was key to identifying key phenotypic drivers.
 
 
