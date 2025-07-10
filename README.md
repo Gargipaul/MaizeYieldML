@@ -33,6 +33,20 @@ This project includes:
 └── 📄 .gitignore         # Files excluded from version control
 
 ```
+## 📁 Data Source  
+The datasets used in this project are sourced from the **Genomes to Fields (G2F) Initiative**, which provides publicly available phenotypic, genotypic, environmental, and metadata from maize field trials across North America.
+
+Specifically, this project utilizes data from the **2022 field season**, released as part of the G2F Genotype × Environment (G×E) prediction competition. Data include environmental covariates, genotypes, phenotypes, and metadata.
+
+📚 Citation:  
+> Lima, D. C., Washburn, J. D., Varela, J. I., et al. (2023).  
+> *Genomes to Fields 2022 Maize Genotype by Environment Prediction Competition.*  
+> BMC Research Notes, 16:148.  
+> [https://doi.org/10.1186/s13104-023-06421-2](https://doi.org/10.1186/s13104-023-06421-2)
+
+📎 Access:  
+[https://www.genomes2fields.org/resources/](https://www.genomes2fields.org/resources/)
+
 
 
 
@@ -54,12 +68,24 @@ This project includes:
 | XGBoost (Simplified)      | 16.88 | 0.726    |
 
 ```
+
+## 🔧 Setup Instructions
+
+1. Clone the repo:
+   git clone https://github.com/YOUR_USERNAME/MaizeYieldML.git  
+   cd MaizeYieldML  
+2. Install dependencies:  
+   pip install -r requirements.txt  
+3. Open and run the Jupyter notebook in /notebooks.
+
+
 ## 📄 License
 This project is open-source under the MIT License.
 
 ## 🤝 Acknowledgements
-This work contributes to advancing ML-based phenotyping in plant science. SHAP interpretation was key to identifying key phenotypic drivers.
-
+This work contributes to advancing ML-based phenotyping in plant science.  
+Special thanks to the **Genomes to Fields (G2F) Initiative** for providing the maize dataset used in this project.  
+SHAP interpretation was key to identifying important phenotypic drivers.
 
 
 
