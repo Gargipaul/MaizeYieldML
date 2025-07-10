@@ -44,7 +44,8 @@ This project includes:
 2. Install dependencies:
    pip install -r requirements.txt
 3. Open and run the Jupyter notebook in /notebooks.
-   
+
+```
    | Model                     | RMSE  | R² Score |
 | ------------------------- | ----- | -------- |
 | RandomForest (Full)       | 14.70 | 0.7923   |
@@ -52,6 +53,7 @@ This project includes:
 | XGBoost (Full)            | 16.75 | 0.7302   |
 | XGBoost (Simplified)      | 16.88 | 0.726    |
 
+```
 ## 📄 License
 This project is open-source under the MIT License.
 
