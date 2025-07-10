@@ -46,7 +46,7 @@ This project includes:
 3. Open and run the Jupyter notebook in /notebooks.
 
 ```
-   | Model                     | RMSE  | R² Score |
+| Model                     | RMSE  | R² Score |
 | ------------------------- | ----- | -------- |
 | RandomForest (Full)       | 14.70 | 0.7923   |
 | RandomForest (Simplified) | 15.09 | 0.781    |
