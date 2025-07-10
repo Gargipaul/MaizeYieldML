@@ -2,6 +2,37 @@
 
 A machine learning pipeline for predicting yield-related traits in maize using RandomForest and XGBoost regressors, with SHAP-based feature importance analysis.
 
+---
+
+## 📊 Project Overview
+
+This project includes:
+
+- Training RandomForest and XGBoost models on maize phenotype data  
+- SHAP analysis to interpret model predictions  
+- Feature selection to simplify models  
+- Comparison of full vs. simplified models  
+- Saving models and SHAP outputs for reuse  
+
+---
+
+## 🧪 Key Features
+
+- SHAP for model explainability  
+- RMSE and R² performance metrics  
+- Plot saving and feature ranking  
+- Cleaned feature names for model compatibility  
+
+---
+
+## 📁 Project Structure
+
+
+--------------------------------------------------------------------------------------------
+# MaizeYieldML 🌽
+
+A machine learning pipeline for predicting yield-related traits in maize using RandomForest and XGBoost regressors, with SHAP-based feature importance analysis.
+
 ## 📊 Project Overview
 
 This project includes:
