@@ -19,16 +19,17 @@ This project includes:
 
 ## 📁 Project Structure
 
-MaizeYieldML/
-
-├── data/ # Raw input data (not uploaded)
-├── output/ # SHAP plots, top features, predictions
-├── models/ # Saved models (XGBoost, RandomForest)
-├── notebooks/ # Jupyter Notebooks for model training & analysis
-├── src/ # Optional: Python utility functions
-├── README.md # Project documentation
-├── requirements.txt # Python package dependencies
-└── .gitignore # Files excluded from version control
+📁 MaizeYieldML/
+│
+├── 📁 data/             # Raw input data (not uploaded)
+├── 📁 output/           # SHAP plots, top features, predictions
+├── 📁 models/           # Saved models (XGBoost, RandomForest)
+├── 📁 notebooks/        # Jupyter Notebooks for model training & analysis
+├── 📁 src/              # Optional: Python utility functions
+│
+├── 📄 README.md         # Project documentation
+├── 📄 requirements.txt  # Python package dependencies
+└── 📄 .gitignore         # Files excluded from version control
 
 
 ## 🔧 Setup Instructions
