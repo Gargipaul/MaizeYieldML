@@ -45,7 +45,7 @@ Specifically, this project utilizes data from the **2022 field season**, release
 > [https://doi.org/10.1186/s13104-023-06421-2](https://doi.org/10.1186/s13104-023-06421-2)
 
 📎 Access:  
-[https://www.genomes2fields.org/resources/](https://www.genomes2fields.org/resources/)
+  [https://www.genomes2fields.org/resources/](https://www.genomes2fields.org/resources/)
 
 
 
